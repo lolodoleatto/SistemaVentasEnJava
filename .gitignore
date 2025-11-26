@@ -1,0 +1,9 @@
+# Archivos compilados 
+*.jar
+build/
+bin/
+dist/
+
+# Archivos de configuración con secretos
+db.properties
+
